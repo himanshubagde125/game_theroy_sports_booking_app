@@ -1,23 +1,9 @@
 # **Sports Booking App**
 
 **College ID:** iit2021214@iiita.ac.in
+<br>
 ROLL NO : iit2021214
-<br/>
-Report :
 
----
-
-- ***
-
-  ***
-
-#
-
----
-
-````
-### **Deploy Link**
-deploy Link = https://vercel.com/himanshu-bagdes-projects/new-sport-booking-app
 
 ### **Backend Setup**
 1. Navigate to the backend directory:
