@@ -24,8 +24,6 @@ The design of the Sports Booking App was driven by the need for a user-friendly 
 - **Backend Architecture:** The app uses a RESTful API for smooth communication between the frontend and backend, ensuring real-time availability updates and secure transactions.
   
 - **Database Design:** Mongodb was chosen to manage user data,.
-
-- 
   
 - **Search and Filtering:** Advanced search and filtering options were prioritized to allow users to easily find sports venues based on location, type of sport, availability, and other criteria.
 
