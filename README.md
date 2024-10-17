@@ -1,10 +1,5 @@
-# **Sports Booking App**
 
-**College ID:** iit2021214@iiita.ac.in
-<br>
-ROLL NO : iit2021214
-
-# **Sports Booking App**
+#  **  Game Theory Sports Booking App**
 
 **College ID:** iit2021214@iiita.ac.in
 <br>
