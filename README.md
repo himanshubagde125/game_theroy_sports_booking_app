@@ -56,5 +56,5 @@ deploy Link = https://vercel.com/himanshu-bagdes-projects/new-sport-booking-app
 
  deploy Link
 
- https://vercel.com/himanshu-bagdes-projects/new-sport-booking-app
+https://new-sport-booking-app.vercel.app/login
 ---
