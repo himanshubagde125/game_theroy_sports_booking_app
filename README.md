@@ -124,7 +124,5 @@ These improvements would make the app more secure, user-friendly, and scalable t
 
 
    
-### **Deploy Link**
-https://new-sport-booking-app.vercel.app/login
-   
+
 
