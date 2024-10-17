@@ -42,6 +42,9 @@ ROLL NO : iit2021214
    
    npm start
    ```
+   ## **Introduction**
+The Sports Booking App is a platform designed to streamline the booking process for various sports venues. It allows users to easily search for, view availability, and reserve sports facilities such as courts, fields, and gyms. The app aims to make the booking experience convenient, efficient, and user-friendly for both facility managers and sports enthusiasts.
+
 
    
 ### **Deploy Link**
